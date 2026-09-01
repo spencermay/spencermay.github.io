@@ -7,12 +7,13 @@
 # server process.
 
 # Basic Site Settings
+# >>> EDIT THESE: this is the main place you set your name and site identity. <<<
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "default" # Theme options: "default", "air", "sunrise", "mint", "dirt", "contrast"
+title                    : "Spencer May"                     # Shows in the browser tab / site header
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Spencer May"               # Your name (reused across the site)
+description              : &description "Personal website of Spencer May"  # Default site description for search engines
 url                      : https://spencermay.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,42 +23,46 @@ repository               : "spencermay/spencermay.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  # Biographic information — this fills the sidebar that appears on every page.
+  # Leave a field blank (nothing after the colon) to hide it.
+  avatar           : "profile.jpg"           # Your photo. Put the file in images/ and use its filename here.
+  name             : "Spencer May"
+  pronouns         : # example: "he/him"
+  bio              : "Statistics PhD student"
+  employer         : "University of Michigan"
+  location         : "Ann Arbor"
+  uri              : # your website URL, optional
+  # email intentionally left blank so the theme does NOT emit a plaintext
+  # mailto: link (easy for scrapers to harvest).
+  email            :
 
-  # Academic websites
+  # Academic websites — add a URL after the colon to show that icon in the sidebar.
+  # (All blank for now so no icons appear until you fill them in.)
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL
+  googlescholar    : # e.g. "https://scholar.google.com/citations?user=XXXXXX"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # e.g. "https://orcid.org/0000-0000-0000-0000"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
 
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  # Repositories and software development — add just your username after the colon.
+  bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  github           : # your GitHub username, e.g. "spencermay"
+  kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # your Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

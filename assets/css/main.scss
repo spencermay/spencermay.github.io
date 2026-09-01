@@ -37,3 +37,20 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* ==========================================================================
+   CUSTOM OVERRIDES  (my personal tweaks — keep below the imports above)
+   ========================================================================== */
+
+/* Sidebar profile photo: taller rounded-square instead of a circle.
+   object-fit: cover fills the box and crops the sides as needed.
+   Extra selector specificity (.sidebar .author__avatar img) so this always
+   beats the theme's default circle rule. */
+.sidebar .author__avatar img,
+.author__avatar img {
+  width: 175px;          // horizontal size
+  max-width: 175px;
+  height: 220px;         // taller than wide for a portrait crop
+  object-fit: cover;     // crop horizontally instead of squishing
+  border-radius: 12px;   // rounded-off square (raise for more rounding)
+}

@@ -9,56 +9,64 @@ redirect_from:
 
 {% include base_path %}
 
+<!--
+============================================================================
+ THIS IS YOUR CV PAGE. Fill in each section below with your own details.
+ Each "======" underline turns the line above it into a section heading.
+ Use "* " for bullets, and indent with two spaces for sub-bullets.
+
+ Want to also offer a downloadable PDF? Put your CV PDF in the files/ folder
+ (e.g. files/spencer-may-cv.pdf) and uncomment the line just below.
+============================================================================
+-->
+
+<!-- [Download a PDF copy of my CV](/files/spencer-may-cv.pdf) -->
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in [Field], [University], [Year expected]
+* M.S. in [Field], [University], [Year]
+* B.S. in [Field], [University], [Year]
 
-Work experience
+Research interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Interest 1
+* Interest 2
+* Interest 3
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Experience
+======
+* [Year]–present: [Role, e.g. Graduate Research Assistant]
+  * [University / Lab]
+  * Brief description of what you do
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* [Year]: [Previous role]
+  * [Organization]
+  * Brief description
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill area 1 (e.g. programming languages)
+* Skill area 2 (e.g. lab / experimental methods)
+* Skill area 3 (e.g. languages spoken)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<!-- List papers here as you publish them, most recent first: -->
+* Author, A., **May, S.**, & Author, B. (Year). Title of paper. *Journal / Venue*.
+
+Talks and presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* "Talk title," Conference / Seminar, Location, Year.
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* [Term Year]: [Course name / role], [University]
+
+Awards and honors
 ======
-* Currently signed in to 43 different slack teams
+* [Award name], [Granting body], [Year]
+
+Service and outreach
+======
+* [Committee, review work, volunteering, etc.]

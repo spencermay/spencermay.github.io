@@ -37,6 +37,28 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
 
+      <!-- Scraper-resistant email link. The address is never written as a
+           contiguous string or a literal mailto: in the HTML; it is assembled
+           in JS only when a human clicks. Edit the parts in the <script> below. -->
+      <li>
+        <a href="#" id="author-email-link">
+          <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email
+        </a>
+      </li>
+      <script>
+        (function () {
+          var link = document.getElementById("author-email-link");
+          if (!link) return;
+          // Address split into parts so it is not scannable as one string.
+          var user = "svmay";
+          var domain = ["umich", "edu"].join(".");
+          link.addEventListener("click", function (e) {
+            e.preventDefault();
+            window.location.href = "mailto:" + user + "@" + domain;
+          });
+        })();
+      </script>
+
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia</a></li>
