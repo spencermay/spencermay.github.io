@@ -13,22 +13,19 @@ author_profile: true
 ============================================================================
 -->
 
-Outside of research, here's what I get up to.
+## Running and Cross Country Skiing
 
-## Hobby one
-
-A sentence or two about it — how you got into it, what you love about it.
+I am a distance runner. I competed for the University of Chicago's cross country and track and field.
 
 <!-- Example photo (put the file in images/ and uncomment): -->
 <!-- ![Out on a hike last summer](/images/hiking.jpg) -->
 
-## Hobby two
 
-More here. You can mix text and photos freely.
+I am a cross country skier, too.
 
-## Hobby three
+## Also,
 
-And here.
+I enjoy playing the guitar but I'm not very good, and I have a kitten.
 
 <!--
  TIP: to place two photos side by side, you can use the template's gallery.

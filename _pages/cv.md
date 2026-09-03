@@ -24,49 +24,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in [Field], [University], [Year expected]
-* M.S. in [Field], [University], [Year]
-* B.S. in [Field], [University], [Year]
+* Ph.D. in Statistics, University of Michigan, expected '32
+* B.S. in Mathematics, B.A. in Physics, the University of Chicago '26, graduated summa cum laude.
 
-Research interests
+<!-- Research interests
 ======
 * Interest 1
 * Interest 2
-* Interest 3
+* Interest 3 -->
 
-Experience
-======
-* [Year]–present: [Role, e.g. Graduate Research Assistant]
-  * [University / Lab]
-  * Brief description of what you do
-
-* [Year]: [Previous role]
-  * [Organization]
-  * Brief description
+<!-- Experience
+====== -->
 
 Skills
 ======
-* Skill area 1 (e.g. programming languages)
-* Skill area 2 (e.g. lab / experimental methods)
-* Skill area 3 (e.g. languages spoken)
+* Abstract mathematics. Real+Complex Analysis. Combinatorics.
+* Python. C, Java, MATLAB, and SQL.
+
+Awards and honors
+======
+* Enrico Fermi Scholar in the Physical Sciences Collegiate Division, University of Chicago. (Top 5% GPA among my major over 5 yrs)
+* Finalist, Harris Social Impact Fellowship, University of Chicago (2026). Top 5% of 787 candidates
 
 Publications
 ======
 <!-- List papers here as you publish them, most recent first: -->
-* Author, A., **May, S.**, & Author, B. (Year). Title of paper. *Journal / Venue*.
+* Fox BQ, *May S,* Wallace D. "A Mathematical Model for Collective Behaviors and Emergent Patterns Driven by Multiple Distinct Stimuli Produced by Multiple Species." AppliedMath. 2024; 4(4):1453-1470. https://doi.org/10.3390/appliedmath4040077
 
-Talks and presentations
+<!-- Talks and presentations
 ======
-* "Talk title," Conference / Seminar, Location, Year.
+* "Talk title," Conference / Seminar, Location, Year. -->
+
+<!-- Teaching
+======
+* [Term Year]: [Course name / role], [University] -->
 
 Teaching
 ======
-* [Term Year]: [Course name / role], [University]
+* 2026–present: Graduate Student Instructor
+  * The University of Michigan
 
-Awards and honors
+<!-- Service and outreach
 ======
-* [Award name], [Granting body], [Year]
-
-Service and outreach
-======
-* [Committee, review work, volunteering, etc.]
+* [Committee, review work, volunteering, etc.] -->
