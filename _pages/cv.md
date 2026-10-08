@@ -30,11 +30,11 @@ redirect_from:
 
 *University of Michigan* 
 
-Ph.D. Student in Statistics \| 2026 – present
+Ph.D. Student in Statistics &#124; 2026 – present
 
 *University of Chicago*
 
-B.S. in Mathematics; B.A. in Physics \| summa cum laude \| 2026
+B.S. in Mathematics; B.A. in Physics &#124; summa cum laude &#124; 2026
 
 GPA: 3.9/4.0
 
@@ -55,7 +55,7 @@ GPA: 4.0/4.0
 
 ## **Research Experience**
 
-*Nonparametric Methodology \| University of Chicago, Dr. Nikolaos Ignatiadis \| 2025 – 2026*
+*Nonparametric Methodology &#124; University of Chicago, Dr. Nikolaos Ignatiadis &#124; 2025 – 2026*
 
 Developed a confidence interval method for smoothing splines that resolves an impractical regularity assumption.
 
@@ -63,7 +63,7 @@ Established theoretical properties and evaluated the method through Python exper
 
 Work funded by the Quad Undergraduate Research Scholar fellowship.
 
-*Computational Biology Research \| Dartmouth College \| 2022-2024* 
+*Computational Biology Research &#124; Dartmouth College &#124; 2022-2024* 
 
 Developed a differential equation model of collective cell chase-and-run behavior.
 
@@ -71,11 +71,11 @@ Conducted computational experiments informed by biological literature.
 
 Co-authored a peer-reviewed article in AppliedMath (2024).
 
-*Graph Robustness Research \| Budapest Summer in Mathematics, Dr. Jordán Tibor \| 2024*
+*Graph Robustness Research &#124; Budapest Summer in Mathematics, Dr. Jordán Tibor &#124; 2024*
 
 Explored the k-connectivity and orientability of graphs and digraphs.
 
-*Theoretical Graph Classification Research \| Dartmouth College, Dr. Rosa Orellana \| 2023* 
+*Theoretical Graph Classification Research &#124; Dartmouth College, Dr. Rosa Orellana &#124; 2023* 
 
 Developed Python enumeration and analysis for the chromatic symmetric function on trees. 
 
@@ -86,31 +86,31 @@ Fox, B. Q., May, S., & Wallace, D. (2024). A mathematical model for collective b
 
 ## **Work Experience**
 
-*Graduate Student Instructor, Stat 250 \| University of Michigan \| 2026 – present*
+*Graduate Student Instructor, Stat 250 &#124; University of Michigan &#124; 2026 – present*
 
 Leading weekly lab sections, holding office hours. Explaining statistical concepts to undergraduates.
 
-*Research and Development Assistant \| Dartmouth College \| Summer 2023*
+*Research and Development Assistant &#124; Dartmouth College &#124; Summer 2023*
 
 Assisted in curriculum design for a new applied math course for engineering students.
 
 
 ## **Awards**
 
-*Quad Undergraduate Research Scholar \| University of Chicago \| 2026*
+*Quad Undergraduate Research Scholar &#124; University of Chicago &#124; 2026*
 
-*Enrico Fermi Scholar Honors \| University of Chicago \| 2026*
+*Enrico Fermi Scholar Honors &#124; University of Chicago &#124; 2026*
 
-*Harris Social Impact Scholar Fellowship Finalist \| 2025*
+*Harris Social Impact Scholar Fellowship Finalist &#124; 2025*
 
 
 ## **Leadership** 
 
-*Captain for Varsity Cross Country and Track and Field \| 2025 – 2026*
+*Captain for Varsity Cross Country and Track and Field &#124; 2025 – 2026*
 
 Elected by my teammates as one of two captains. Top team national placement in decades.
 
-*Maroon Leadership Initiative \| 2024 – 2025*
+*Maroon Leadership Initiative &#124; 2024 – 2025*
 
 Selected for a yearlong leadership-development program of workshops and peer discussion.
 
