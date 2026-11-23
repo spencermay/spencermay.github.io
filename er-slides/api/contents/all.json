@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-23T00:12:33.455153Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-23T00:12:33.455153Z",
+      "mimetype": null,
+      "name": "erdos_renyi_slides.ipynb",
+      "path": "erdos_renyi_slides.ipynb",
+      "size": 525976,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-23T00:12:54.918927Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-23T00:12:54.919124Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
